@@ -1,0 +1,2 @@
+Takes the reaction rates for the lock opening, proofreader and reporter reactions and creates excel sheets with the information.
+The 2 boxes in the notebook do this for the best reaction rate dataset from the MSE analysis and the second best reaction rate dataset respectively.
