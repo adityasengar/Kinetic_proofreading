@@ -1,0 +1,2 @@
+(* Created with the Wolfram Language : www.wolfram.com *)
+{3.7209105289777353, 5.523459823590391, 7.4283385285329455, 9.317142365208783}
