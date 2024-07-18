@@ -28,7 +28,7 @@ def main():
     t_span = (0, 100)
     t_eval = np.linspace(t_span[0], t_span[1], 1000)
 
-    # Initial conditions: [C, I, E, EC, EI, P]
+    # Initial conditions: [Correct, Incorrect, Enzyme, E-Correct, E-Incorrect, Product] [C, I, E, EC, EI, P]
     initial_conditions = [10.0, 10.0, 1.0, 0, 0, 0]
 
     # --- Load & Run ---
