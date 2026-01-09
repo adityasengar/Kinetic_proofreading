@@ -25,3 +25,5 @@ Folder "Mathematica" contains all the necessary data analysis files used to gene
 Folder "Rates" contains the extracted reaction rate constants in excel format
 
 
+
+# Updated on 2026-01-09
